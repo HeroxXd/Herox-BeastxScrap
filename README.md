@@ -2,7 +2,7 @@
 BeastxScrap 
 
 
-- 1st download python 3.10 etc . 
+- 1st download python 3.10 etc . [Python Download](https://www.python.org/ftp/python/3.10.2/python-3.10.2-amd64.exe)
 - Then open CMD in pc 
 - Send `pip install telethon`
 - then send `setup.py`
