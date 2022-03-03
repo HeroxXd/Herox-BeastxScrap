@@ -7,7 +7,7 @@ BeastxScrap
 - Send `pip install telethon`
 - then send `setup.py`
 - After all installation Send `main.py`
-- 1st you need to upgrade your code so send `13` After upgrade 
+- 1st you need to update your code so send `13` After update 
 - Then you can choose `scrap member , Add account , scam tag , report a user , profile pic change ... so many feature`
 
 
